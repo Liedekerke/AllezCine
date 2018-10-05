@@ -13,7 +13,7 @@ Nous avons reçu un travail d'intégration front-end, nous devons remettre une o
 
 ## Objectifs d'apprentissage
 
-- Respecter un design fourni .[Layout](https://github.com/becodeorg/Johnson2/blob/master/projets/AllezCine/layout-one-v2.jpg).
+- Respecter un design fourni. ->[Layout](https://github.com/becodeorg/Johnson2/blob/master/projets/AllezCine/layout-one-v2.jpg).
 - Consolider les acquis en git, HTML, CSS, Bootstrap.
 - Utiliser javascript/jQuery dans un projet réaliste.
 
